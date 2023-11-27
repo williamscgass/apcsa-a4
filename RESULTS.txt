@@ -1,0 +1,75 @@
+Test name: testMin1
+Points awarded: 10
+Arguments: [3, 4]
+Expected: 3
+Result: 3
+
+Test name: testMin2
+Points awarded: 10
+Arguments: [3, 9, 10, 2, -1, -77, 8, 12]
+Expected: -77
+Result: -77
+
+Test name: testMin3
+Points awarded: 10
+Arguments: [12, 7, 12, 7, 33, 77, 88]
+Expected: 7
+Result: 7
+
+Test name: freePoints
+Points awarded: 10
+Arguments: 
+Expected: free points
+Result: thank you i'll take these free points
+
+Test name: testUniqueSum1
+Points awarded: 1
+Arguments: [1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 5]
+Expected: 11
+Result: 11
+
+Test name: testUniqueSum2
+Points awarded: 1
+Arguments: [1, 1, 1, 1, 1, 1]
+Expected: 1
+Result: 1
+
+Test name: testElementAdd1
+Points awarded: 10
+Arguments: [1, 2, 3]
+x: 4
+Expected: [5, 6, 7]
+Result: [5, 6, 7]
+
+Test name: testElementAdd2
+Points awarded: 10
+Arguments: [-3, 2, 12, 26, 99]
+x: -10
+Expected: [-13, -8, 2, 16, 89]
+Result: [-13, -8, 2, 16, 89]
+
+Test name: testRange1
+Points awarded: 10
+Arguments: [3, 4]
+Expected: 1
+Result: 1
+
+Test name: testRange2
+Points awarded: 10
+Arguments: [3, 9, 10, 2, -1, -77, 8, 12]
+Expected: 89
+Result: 89
+
+Test name: testRange3
+Points awarded: 10
+Arguments: [12, 7, 12, 7, 33, 77, 88]
+Expected: 81
+Result: 81
+
+Test name: testRange4
+Points awarded: 10
+Arguments: [1, 1, 1, 1, 1, 1]
+Expected: 0
+Result: 0
+
+Overall Test Results: 102/100
