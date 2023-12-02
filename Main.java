@@ -3,6 +3,6 @@ public class Main {
         // Run your tests here
 
         // an example:
-        org.junit.runner.JUnitCore.main("TestArrayMethods");
+        org.junit.runner.JUnitCore.main("TestDuel");
     }
 }

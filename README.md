@@ -3,9 +3,9 @@
 Here are the instructions for Assignment 4.  
 Fair warning... this assignment is HARD! It's in your best interest to get started early. You have a couple weeks to work on it, so don't wait until the last minute.  
 This assignment gives you practice with polymophism (formally referred to as polyjuice potion), inheritance, static methods, and boolean logic.  
-There are no designated extra credit questions for this assignment, but, because it's so massive, the maximum score is 110/100.
+There are no designated extra credit questions for this assignment, but, because it's so massive, the maximum score is 106/100.
 
-Assignment 4 is due 12/12/2023 at 11:59pm (last day of the semester). 
+Assignment 4 is due this Friday at Midnight, and will be used as the base for your project.
 
 ### IMPORTANT: TESTING
 
@@ -88,7 +88,7 @@ Above is what makes this assignment **VERY DIFFICULT!**: how the cast priorities
 
 ## A Final Remark
 
-All tests, if you look at the test files, are ran through duels. This means I am giving you a fair amount of freedom in how you implement your SpellCasters (specifically, how you implement the special cast). However, you must follow the specifications above. If you do not, you will lose points. If you are unsure if your implementation is valid, ask me! I am more than happy to help you out.
+Most tests, if you look at the test file, are ran through duels. This means I am giving you a fair amount of freedom in how you implement your SpellCasters (specifically, how you implement the special cast). However, you must follow the specifications above. If you do not, you will lose points. If you are unsure if your implementation is valid, ask me! I am more than happy to help you out.
 
 
 

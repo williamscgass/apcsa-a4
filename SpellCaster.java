@@ -13,10 +13,6 @@ public class SpellCaster {
         /*
          * Your code goes here...
          */
-        this.name = name;
-        this.maxHealth = maxHealth;
-        this.health = maxHealth;
-        this.battlesWon = 0;
     }
     
     /*
@@ -29,16 +25,18 @@ public class SpellCaster {
         return;
     }
 
+    /*
+     * Your code goes here....
+     */
+
     public int takeDamage(int damage) {
-        this.health -= damage;
-        return this.health;
+        return 0;
     }
 
     public void increaseBattlesWon() {
-        this.battlesWon++;
     }
 
     public boolean isDefeated() {
-        return this.health <= 0;
+        return false;
     }
 }

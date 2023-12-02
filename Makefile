@@ -7,6 +7,7 @@ clean:
 	rm *.class
 
 windows-test:
+	del RESULTS.txt
 	javac -cp junit.jar;. ./*.java
 	java -cp junit.jar;hamcrest.jar;. Main
 	type RESULTS.txt
